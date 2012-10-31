@@ -65,7 +65,7 @@ code-base.
 <a name="comments"></a>
 ## 3. Comments
 
-Well commented code is extremely important. Take time to describe components,
+Well-commented code is extremely important. Take time to describe components,
 how they work, their limitations, and the way they are constructed. Don't leave
 others in the team guessing as to the purpose of uncommon or non-obvious
 code.
