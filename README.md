@@ -81,8 +81,6 @@ Comment style should be simple and consistent within a single code base.
 Tip: configure your editor to provide you with shortcuts to output agreed-upon
 comment patterns.
 
-#### Example:
-
 ```css
 /* ==========================================================================
    Section comment block
